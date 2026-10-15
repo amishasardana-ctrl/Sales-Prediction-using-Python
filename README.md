@@ -13,6 +13,10 @@ It is a Machine Learning project that predicts future sales based on historical 
   ->Predict Sales
 3. Python code for Sales Prediction
 First, install the required libraries in your terminal or Jupyter Notebook:
-  pip install pandas matplotlib scikit-learn
+  pip install pandas, matplotlib ,scikit-learn
 
-  
+---> HOW THE PROJECT WORKS
+. Data Collection
+. Model Training
+. Prediction
+. Evaluation
